@@ -4,4 +4,8 @@ def print_text():
 def print_segundo():
     print('segundo print')
 
-print_text()
+
+def print_first():
+    print('Rachel modifico aqui')
+
+print_first()
